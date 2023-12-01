@@ -1,0 +1,33 @@
+----------------------------------------------------------------------
+|+RPG Character Interfaces                                           |
+|   1.Warrior Character                                              |
+|       *Propeties:                                                  |
+|           -Name                                                    |
+|           -Health Points (HP)                                      |
+|           -Attack Points (ATK)                                     |
+|           -Defense Points (DEF)                                    |
+|           -Level                                                   |
+|           -Job (e.g.,Warrior)                                      |
+|   2.Mage Character                                                 |
+|       *Propeties:                                                  |
+|           -Name                                                    |
+|           -Health Points (HP)                                      |
+|           -Magic Points (MATK)                                     |
+|           -Magic Defanse Points (MDEF)                             |
+|           -Level                                                   |
+|           -Job (e.g.,Mage)                                         |
+----------------------------------------------------------------------
+|+Accessory Interfaces                                               |
+|   1.Ring Accessory                                                 |
+|       *Propeties:                                                  |
+|           -Name                                                    |
+|           -Type (e.g.,Ring)                                        |
+|           -Stat Buffs (e.g., +5 MATK, +3 MDEF)                     |
+|           -Spacial Effects (e.g.,Increase attack speed)            |
+|   2.Armor Regeneration Accessory                                   |
+|       Propeties:                                                   |
+|           -Name                                                    |
+|           -Type (e.g.,Armor)                                       |
+|           -Stat Buffs (e.g.,+3 ATK, +10 DEF)                       |
+|           -Spacial Effects (e.g.,Health regeneration over time)    |
+----------------------------------------------------------------------
